@@ -2,7 +2,12 @@
  * Data
  * Creation Date: 08/03/2019 at 20:23:38
  *********************************************/
-
+ /********************************************
+ To cite: 
+ Arratia-Martinez, N. M., Avila-Torres, P. A., & Trujillo-Reyes, J. C. (2021). 
+ Solving a University Course Timetabling Problem Based on AACSB Policies. 
+ Mathematics, 9(19), 2500.
+ *********************************************/
 28	//quantity of courses
 28	//quantity of professors
 22	//quantity of slot times
